@@ -9,7 +9,18 @@
 
 ## HW1
 
-1. colab 連結：[NTNU_41147006S_資工115_張訓豪_HW1.ipynb](https://colab.research.google.com/drive/1vYjFXjYaOafzweyWzKbFmQfy4ytYD4Hu?usp=sharing)
+1. Colab 連結：[NTNU_41147006S_資工115_張訓豪_HW1.ipynb](https://colab.research.google.com/drive/1vYjFXjYaOafzweyWzKbFmQfy4ytYD4Hu?usp=sharing)
 2. 使用 Gemini 生成一個愛心函數圖形
 3. 成果如圖
 ![圖片](images/hw1_1.png)
+
+---
+
+## HW2
+
+1. Colab 連結：[NTNU_41147006S_資工115_張訓豪_HW2.ipynb](https://colab.research.google.com/drive/1ZRq9PwEPcd7xEvnU-Kiog8aaawrO7b0c?usp=sharing)
+2. 打造自己的DNN(全連結)手寫辨識
+3. Gradio 測試如圖
+![圖片](images/hw2-1.png)
+![圖片](images/hw2-2.png)
+![圖片](images/hw2-3.png)
