@@ -20,7 +20,10 @@
 
 1. Colab 連結：[NTNU_41147006S_資工115_張訓豪_HW2.ipynb](https://colab.research.google.com/drive/1ZRq9PwEPcd7xEvnU-Kiog8aaawrO7b0c?usp=sharing)
 2. 打造自己的DNN(全連結)手寫辨識
-3. Gradio 測試如圖
+3. 參數和正確率如圖
+![圖片](images/hw2-4.png)
+![圖片](images/hw2-5.png)
+4. Gradio 測試如圖
 ![圖片](images/hw2-1.png)
 ![圖片](images/hw2-2.png)
 ![圖片](images/hw2-3.png)
