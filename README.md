@@ -41,3 +41,14 @@
 
 完成書面報告  
 詳情請見檔案
+
+---
+
+## HW5
+
+1. Colab 連結：[NTNU_41147006S_資工115_張訓豪_HW5.ipynb](https://colab.research.google.com/drive/14hw7wnQ9tEs9si_dIh_F1EtdAF0bpiji?usp=sharing)
+2. 用OpenAI API打造自己的對話機器人  
+3. 測試結果如圖  
+![圖片](images/hw5-1.png)  
+![圖片](images/hw5-2.png)  
+![圖片](images/hw5-3.png)
