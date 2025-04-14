@@ -52,3 +52,19 @@
 ![圖片](images/hw5-1.png)  
 ![圖片](images/hw5-2.png)  
 ![圖片](images/hw5-3.png)
+
+---
+
+## HW6
+
+1. Colab 連結：[NTNU_41147006S_資工115_張訓豪_HW6.ipynb](https://colab.research.google.com/drive/1YSl_A1uoNj4N4BJYbRyqEGMpxSUiO-3L?usp=sharing)  
+2. 製作主題一：更改上週作業成可以持續對話的版本  
+3. 機器人背景設定  
+![圖片](images/hw6-1.png)  
+4. 機器人使用模型  
+![圖片](images/hw6-2.png)  
+5. 測試結果  
+![圖片](images/hw6-3.png)
+![圖片](images/hw6-4.png)
+![圖片](images/hw6-5.png)
+![圖片](images/hw6-6.png)  
