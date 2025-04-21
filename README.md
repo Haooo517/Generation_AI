@@ -67,4 +67,24 @@
 ![圖片](images/hw6-3.png)
 ![圖片](images/hw6-4.png)
 ![圖片](images/hw6-5.png)
-![圖片](images/hw6-6.png)  
+![圖片](images/hw6-6.png)
+
+---
+
+## HW7
+
+1. Colab 連結：[NTNU_41147006S_資工115_張訓豪_HW7.ipynb](https://colab.research.google.com/drive/1Vch591ZmTa7b3PYaexJynDkxUhAE74AY?usp=sharing)  
+2. 實作RAG系統
+3. 使用資料為一些中文經典歌曲的資訊，包括以下幾點  
+  - 歌名  
+  - 歌手  
+  - 發行時間  
+  - 歌曲時長  
+  - 歌詞節錄  
+  - 歌曲簡介  
+4. 機器人背景設定  
+![圖片](images/hw7-4.png)  
+5. 測試結果  
+![圖片](images/hw7-1.png)
+![圖片](images/hw7-2.png)
+![圖片](images/hw7-3.png)
