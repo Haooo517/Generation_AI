@@ -88,3 +88,17 @@
 ![圖片](images/hw7-1.png)
 ![圖片](images/hw7-2.png)
 ![圖片](images/hw7-3.png)
+
+---
+
+## HW8
+
+1. Colab 連結：[NTNU_41147006S_資工115_張訓豪_HW8.ipynb](https://colab.research.google.com/drive/11CW4XpvhaMVYF8qQ3jLKY1LVaim3HmIM?usp=sharing)
+2. 實作 Reflection AI Agent  
+3. 機器人 writer 和 reviewer 設定如下  
+![圖片](images/hw8-1.png)  
+4. 測試結果  
+![圖片](images/hw8-2.png)  
+![圖片](images/hw8-3.png)
+![圖片](images/hw8-4.png)
+![圖片](images/hw8-5.png)  
