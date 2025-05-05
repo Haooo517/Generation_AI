@@ -101,4 +101,28 @@
 ![圖片](images/hw8-2.png)  
 ![圖片](images/hw8-3.png)
 ![圖片](images/hw8-4.png)
-![圖片](images/hw8-5.png)  
+![圖片](images/hw8-5.png)
+
+---
+
+## HW9
+
+1. 主題：中英文 prompt 對 AI 製圖的影響
+2. 使用像素風
+3. prompt 和生成圖片
+  - "A realistic modern city street scene at sunset in pixel art style, with cars, streetlights, people walking, and detailed buildings, vibrant colors and retro video game vibe."  
+    ![圖片](images/hw9-1.png)  
+  - 「一幅以像素藝術風格呈現的寫實現代都市街景，背景為夕陽時分，有汽車、街燈、行人和細緻的建築物，色彩鮮豔，帶有懷舊電玩遊戲的氛圍。」  
+    ![圖片](images/hw9-2.png)  
+  - "A realistic pixel art style school campus during the afternoon, with students walking around, classrooms, a playground, trees, and shadows cast by the sun, detailed textures and nostalgic video game aesthetic."  
+    ![圖片](images/hw9-3.png)  
+  - 「一幅以像素藝術風格呈現的寫實學校校園場景，時間為下午，有學生在校園中走動、教室、操場、樹木，以及陽光灑下的陰影，細緻的紋理與懷舊電玩遊戲的美感。」  
+    ![圖片](images/hw9-4.png)  
+  - "A realistic pixel art style night scene of a convenience store on a street corner, with glowing neon lights, reflections on the wet pavement, a few people walking with umbrellas, warm light coming from inside the store, and a moody, nostalgic atmosphere."
+    ![圖片](images/hw9-5.png)  
+  - 「一幅以像素藝術風格呈現的寫實夜景，場景為街角的便利商店，有閃爍的霓虹燈、濕潤地面的倒影、撐傘的行人、從店內透出的溫暖燈光，以及充滿情感與懷舊氛圍的夜晚街景。」
+    ![圖片](images/hw9-6.png)  
+  - "A realistic pixel art style countryside farm at sunrise, with a barn, grassy fields, chickens pecking on the ground, cows in a pen, a dog near the farmhouse, and warm morning light casting long shadows. Peaceful and nostalgic rural atmosphere."
+    ![圖片](images/hw9-7.png)  
+  - 「一幅以像素藝術風格呈現的寫實鄉村農場晨景，有穀倉、綠色田野、在地上啄食的雞、欄中的牛、一隻在農舍附近的狗，以及灑下長長陰影的溫暖晨光。整體氛圍寧靜而懷舊，充滿鄉村氣息。」
+    ![圖片](images/hw9-8.png)  
