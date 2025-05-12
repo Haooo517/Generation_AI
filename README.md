@@ -126,3 +126,23 @@
     ![圖片](images/hw9-7.jpg)  
   - 「一幅以像素藝術風格呈現的寫實鄉村農場晨景，有穀倉、綠色田野、在地上啄食的雞、欄中的牛、一隻在農舍附近的狗，以及灑下長長陰影的溫暖晨光。整體氛圍寧靜而懷舊，充滿鄉村氣息。」
     ![圖片](images/hw9-8.jpg)  
+
+---
+
+## HW10
+
+1. Colab 連結：[NTNU_41147006S_資工115_張訓豪_HW10.ipynb](https://colab.research.google.com/drive/18J-9EOqMeU13y1j7JtyZ3JgNM9UrkwhH?usp=sharing)
+2. 多風格卡通圖片生成器
+3. 使用模型
+  ![圖片](iamges/hw10-11.png)
+4. prompt 和生成圖片
+  ![圖片](images/hw10-1.png)  
+  ![圖片](images/hw10-2.png)
+  ![圖片](images/hw10-3.png)
+  ![圖片](images/hw10-4.png)
+  ![圖片](images/hw10-5.png)
+  ![圖片](images/hw10-6.png)
+  ![圖片](images/hw10-7.png)
+  ![圖片](images/hw10-8.png)
+  ![圖片](images/hw10-9.png)
+  ![圖片](images/hw10-10.png)
