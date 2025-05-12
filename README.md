@@ -134,7 +134,7 @@
 1. Colab 連結：[NTNU_41147006S_資工115_張訓豪_HW10.ipynb](https://colab.research.google.com/drive/18J-9EOqMeU13y1j7JtyZ3JgNM9UrkwhH?usp=sharing)
 2. 多風格卡通圖片生成器
 3. 使用模型
-  ![圖片](iamges/hw10-11.png)
+  ![圖片](images/hw10-11.png)
 4. prompt 和生成圖片
   ![圖片](images/hw10-1.png)  
   ![圖片](images/hw10-2.png)
