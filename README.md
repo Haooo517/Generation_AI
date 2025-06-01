@@ -165,4 +165,5 @@
 
 ## Final Project
 
+Colab 連結：[NTNU_41147006S_資工115_張訓豪_Final Project](https://colab.research.google.com/drive/1B9O9zU0_du27csAJhntW-tl6yRXF4vMz?usp=sharing)
 詳情請見檔案
